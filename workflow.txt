@@ -1,0 +1,17 @@
+Workflow:
+
+Start on Dev branch
+
+Use sass --watch stylsheets:css and edit style.scss to compile sass into the css folder
+
+Add javascript to the javascripts folder as needed
+
+Update index.html and other pages to reflect css, javascript, and content 
+
+Commit changes when ready
+
+Sync to push to github 
+
+On github.com, pull and merge into master when ready. 
+
+Repeat.
